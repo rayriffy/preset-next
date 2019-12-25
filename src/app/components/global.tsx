@@ -1,5 +1,6 @@
-import { css, Global as EmotionGlobal } from '@emotion/core'
 import React from 'react'
+
+import { css, Global as EmotionGlobal } from '@emotion/core'
 
 const GlobalComponent: React.FC = props => {
   return (
